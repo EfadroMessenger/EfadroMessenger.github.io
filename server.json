@@ -1,0 +1,29 @@
+{
+  "featured": [
+    {
+      "id": "official-global",
+      "name": "Official Efadro",
+      "url": "https://server.4messenger.dpdns.org",
+      "description": "Official Efadro Server",
+      "icon": "🌍",
+      "users": "0",
+      "badge": "official"
+    },
+    {
+      "id": "test",
+      "name": "Test Server",
+      "url": "https://daniil2.alwaysdata.net",
+      "description": "Second Official Efadro Server",
+      "icon": "🌍",
+      "users": "0",
+      "badge": "official"
+    }
+  ],
+  "showAds": false,
+  "adFrequency": 1,
+  "adConfig": {
+    "provider": "profitablecpmnetwork",
+    "scriptUrl": "https://pl29309191.profitablecpmratenetwork.com/dccb0b89ba6218be3cc03bc4900bfcd2/invoke.js",
+    "containerId": "container-dccb0b89ba6218be3cc03bc4900bfcd2"
+  }
+}
