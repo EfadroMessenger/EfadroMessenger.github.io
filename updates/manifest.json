@@ -1,0 +1,19 @@
+{
+  "version": "1.9.0",
+  "buildCode": 26,
+  "releaseDate": "2026-08-22",
+  "updateType": "HOT_PATCH_BUNDLE",
+  "bundleUrl": "https://efadro.dpdns.org/updates/bundle-1.9.0.json",
+  "bundleHash": "sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+  "changelog": [
+    "⚡ Liquid Glass UI hardware acceleration",
+    "🔒 Keystore AES-256 GCM encrypted message storage",
+    "📲 Real-time notifications and direct reply sync",
+    "✨ In-App Live Update Engine from efadro.dpdns.org"
+  ],
+  "dynamicModules": {
+    "liquid_glass_engine": "v2.4",
+    "crypto_cipher": "AES_GCM_256",
+    "notification_direct_reply": "v1.2"
+  }
+}
