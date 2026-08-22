@@ -1,0 +1,33 @@
+{
+  "bundleId": "efadro-patch-1.9.0",
+  "version": "1.9.0",
+  "targetSdk": 35,
+  "checksum": "sha256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",
+  "features": [
+    {
+      "key": "liquid_glass_enhanced_blur",
+      "enabled": true,
+      "parameters": {
+        "blurRadius": 28,
+        "specularIntensity": 0.85,
+        "glassAlpha": 0.18
+      }
+    },
+    {
+      "key": "e2ee_quantum_resistance",
+      "enabled": true,
+      "parameters": {
+        "cipher": "AES-256-GCM",
+        "keyDerivation": "PBKDF2-HMAC-SHA256"
+      }
+    },
+    {
+      "key": "push_priority_direct_reply",
+      "enabled": true,
+      "parameters": {
+        "channelId": "efadro_high_priority_messages",
+        "badgeCount": true
+      }
+    }
+  ]
+}
