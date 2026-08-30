@@ -1,0 +1,80 @@
+EFADRO MESSENGER — USER AGREEMENT
+==================================
+
+Last updated: August 30, 2026
+
+Welcome to Efadro Messenger. By creating an account and using the Efadro
+application (the "Service", "Efadro", "we", "us", or "our"), you agree to be
+bound by the terms of this User Agreement (the "Agreement"). Please read this
+Agreement carefully. If you do not agree with any part of it, do not register
+or use the Service.
+
+1. ELIGIBILITY
+--------------
+By using the Service you confirm that you are at least 13 years old, or the
+minimum age required to use online services in your jurisdiction, and that you
+are legally able to enter into this Agreement. If you are under the age of 13,
+you may not create an account.
+
+2. ACCOUNTS AND SECURITY
+------------------------
+You are responsible for safeguarding your username and password. You agree to
+provide accurate registration information and to keep it up to date. You are
+solely responsible for all activity that occurs under your account. Notify us
+immediately if you suspect any unauthorized use of your account.
+
+3. PRIVACY AND ENCRYPTION
+-------------------------
+Efadro is built around privacy. Text messages and metadata are encrypted
+client-side; files uploaded to the Service are encrypted at rest on our servers
+and are only served to authorized members of a conversation. You acknowledge
+that you are responsible for the content you send, and that you have the
+right to share any material you transmit.
+
+4. ACCEPTABLE USE
+-----------------
+You agree not to:
+- Use the Service for any unlawful purpose or in violation of any applicable law.
+- Send spam, malicious content, malware, viruses, or phishing attempts.
+- Harass, threaten, stalk, or abuse other users.
+- Impersonate another person or entity, or misrepresent your identity.
+- Post content that is illegal, defamatory, hateful, or infringes the rights
+  of others.
+- Attempt to gain unauthorized access to the Service, its servers, or other
+  users' data.
+- Circumvent, disable, or otherwise interfere with security or encryption
+  features of the Service.
+
+5. USER CONTENT
+---------------
+You retain ownership of the content and files you send through Efadro. You
+grant Efadro a limited, non-exclusive license to store, transmit, and display
+such content solely to provide the Service to you and the conversation
+participants you choose. You are solely responsible for the content you share.
+
+6. TERMINATION
+--------------
+You may delete your account at any time. We may suspend or terminate your
+account if we reasonably believe you have violated this Agreement, or if we
+are required to do so by law.
+
+7. DISCLAIMER OF WARRANTY
+-------------------------
+The Service is provided "as is" and "as available" without warranties of any
+kind, express or implied, including but not limited to fitness for a
+particular purpose, merchantability, and non-infringement. We do not guarantee
+that the Service will be uninterrupted, secure, or error-free.
+
+8. LIMITATION OF LIABILITY
+--------------------------
+To the maximum extent permitted by law, Efadro and its operators shall not be
+liable for any indirect, incidental, special, consequential, or punitive
+damages, or for any loss of profits, data, or goodwill arising from your use
+of or inability to use the Service.
+
+9. CHANGES TO THIS AGREEMENT
+----------------------------
+We may update this Agreement from time to time. When we do, we will revise the
+"Last updated" date at the top of this document. Continued use of the Service
+after changes take effect constitutes acceptance of the revised Agreement.
+
